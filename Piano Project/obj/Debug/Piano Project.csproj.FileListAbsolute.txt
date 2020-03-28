@@ -1,0 +1,22 @@
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\bin\Debug\Piano Project.exe.config
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\bin\Debug\Piano Project.exe
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\bin\Debug\Piano Project.pdb
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\obj\Debug\Piano Project.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\obj\Debug\Piano_Project.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\obj\Debug\Piano Project.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\obj\Debug\Piano Project.exe
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\obj\Debug\Piano Project.pdb
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\bin\Debug\System.Data.SQLite.dll
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\bin\Debug\System.Data.SQLite.xml
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\obj\Debug\Piano_Project.FormPiano.resources
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\obj\Debug\Piano Project.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\obj\Debug\Piano_Project.FormDetailKey.resources
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\obj\Debug\Piano_Project.InsertForm.resources
+C:\Users\LENOVO\source\repos\Piano Project\Piano Project\obj\Debug\Piano Project.csproj.CoreCompileInputs.cache
